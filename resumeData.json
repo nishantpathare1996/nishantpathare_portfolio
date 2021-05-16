@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Nishant Pathare",
+    "occupation":"Full Stack Developer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"I have a year's experience in Web Application Development as a Full Stack Developer and have worked on various frameworks such as Django, ReactJS, NodeJS, Bootstrap, MVC, etc. I want to explore my career further into software development, the latest technologies and algorithms and how we can influence the world using it for good.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "nishantpathare1996@gmail.com",
+    "phone": "3124518988",
+    "address":{
+      "street":"2727 S Indiana Ave",
+      "city":"Chicago",
+      "state":"IL",
+      "zip": "60616"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/12SO7-YSRU9ymiKDrOfxzxvskztclgS-F/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nishantpathare1996/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nishantpathare1996/Projects",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Illinois Institute of Technology, Chicago",
+        "degree":"Masters in Computer Science",
+        "graduated":"Aug 2019 - May 2021",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Mumbai University",
+        "degree":"Bachelors in Computer Engineering",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"OneBit LLC.",
+        "title":"Software Engineer intern ",
+        "years":"March 2021 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Emanjha LLC.",
+        "title":"Full-stack developer",
+        "years":"Aug 2014 - July 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Instagram Clone",
+        "category":"Here i tried to immitate everything of instrggarm",
+        "image":"instaclone.png",
+        "url":"https://insta-nishant.herokuapp.com/signin"
+      },
+      {
+        "title":"Covid-19 tracker",
+        "category":"A covid19 counter for counting number of cases, deaths and recovered",
+        "image":"covid.png",
+        "url":"https://nishantpathare1996.github.io/covid-19-project/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
